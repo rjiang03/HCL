@@ -32,8 +32,7 @@ If you find this repository helpful in your research, please consider citing our
 Citation is coming soon.
 ```
 
-For questions or further information, feel free to reach out to Ruijie Jiang at:  
-📧 Ruijie.Jiang@tufts.edu
+
 
 ## Acknowledgements
 
